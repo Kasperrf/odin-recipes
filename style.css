@@ -1,0 +1,11 @@
+.startPage,
+.burgerPage{
+    background-color: rgb(124, 37, 130);
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
